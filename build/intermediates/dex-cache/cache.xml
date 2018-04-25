@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sofia/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.8/84024cd60ad6f26370891fbcd17de9f0167e662/gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="/home/sofia/Desktop/FlappyBird/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.8_7da0549c75e25718661347f40e877fab5b8561b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofia/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.8/6f0497b7958216464101adfb7bdc3a0f7b88d6d3/gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="/home/sofia/Desktop/FlappyBird/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.8_b647600b0c0cf75b3fa757d8a57388a32a821430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofia/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/a35a0076fbce873f9c2d5a1a1c8066244231bb3c/gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="/home/sofia/Desktop/FlappyBird/android/build/intermediates/pre-dexed/debug/gdx-1.9.8_075299ee31e683dbe2eb1c416421f4346a32c803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofia/Desktop/FlappyBird/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="55f260d08870dbf5c732e620cb08a6e5d77c40c7">
+        <dex dex="/home/sofia/Desktop/FlappyBird/android/build/intermediates/pre-dexed/debug/core-1.0_37a95b9ae8ea64fdf23dd262c277e26ca7e4b4e7.jar" />
+    </item>
+
+</items>
